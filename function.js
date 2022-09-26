@@ -9,7 +9,7 @@
 let name1=prompt("whom do you love??");
 
 function namaste(name){
-    return(name+" also loves you soo much.");
+    return("'"+name+"\" also loves you soo much.");
 }
 let namaste1= namaste(name1);
 console.log(namaste1);
