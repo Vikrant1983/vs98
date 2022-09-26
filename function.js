@@ -12,4 +12,4 @@ function namaste(name){
     return("\""+name+"\" also loves you soo much.");
 }
 let namaste1= namaste(name1);
-console.log(namaste1);
+document.write(namaste1);
